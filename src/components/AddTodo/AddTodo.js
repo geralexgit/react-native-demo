@@ -27,7 +27,6 @@ export const AddTodo = ({ onSubmit }) => {
       <AntDesign.Button name="plus" onPress={pressHandler}>
         Add
       </AntDesign.Button>
-      {/* <Button onPress={pressHandler} style={styles.button} title="Add" /> */}
     </View>
   )
 }
